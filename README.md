@@ -66,6 +66,3 @@ This project is licensed under the MIT License. See the LICENSE.txt file for mor
 ## Contribution
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## Contact
-If you have any questions or feedback, feel free to contact the project maintainer at [your-email@example.com].
-
